@@ -124,8 +124,8 @@ export function Projects() {
             <div className="w-12 h-12 border-2 border-dashed border-navy/20 flex items-center justify-center mb-4">
               <span className="text-navy/30 text-2xl font-bold">+</span>
             </div>
-            <p className="text-navy-mid font-medium text-sm">Próximos proyectos</p>
-            <p className="text-navy/40 text-xs mt-1">En camino...</p>
+            <p className="text-navy-mid font-medium text-sm">Más proyectos próximamente</p>
+            <p className="text-navy/40 text-xs mt-1">Nuevos trabajos en camino</p>
           </article>
         </div>
       </div>
